@@ -14,6 +14,7 @@ Dart: 2.14.2
 
 
 ## Additional Feature:
+Checking the Internet connection: Wifi, Mobile or No Internet.
 
 <img src="https://user-images.githubusercontent.com/4931346/161025244-54028e38-2344-418d-ab09-f782ad2eb3fe.png" alt="InfiniteGraph Logo" width="300"><img src="https://user-images.githubusercontent.com/4931346/161025384-f0478c48-df58-43b2-bb21-3b9d4112613e.png" alt="InfiniteGraph Logo" width="300">
 
