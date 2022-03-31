@@ -2,10 +2,6 @@
 
 A technical assignment for Superhands OU
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
 Flutter SDK version: 2.5.1
 Dart: 2.14.2
 
